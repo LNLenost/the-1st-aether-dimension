@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "aethermod:light_zone",
+  "spawners": {
+    "type": "aethermod:space_cow",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

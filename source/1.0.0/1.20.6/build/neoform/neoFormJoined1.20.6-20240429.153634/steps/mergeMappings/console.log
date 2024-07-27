@@ -1,0 +1,8 @@
+JVM Args:          
+Run Args:          "--task", "MERGE_MAPPING", "--left", "C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoform\1.20.6-20240429.153634\config\joined.tsrg", "--right", "C:\Users\nicco\MCreatorWorkspaces\aethermod\.gradle\caches\minecraft\versions\1.20.6\client.txt", "--right-names", "right,left", "--classes", "--fields", "--methods", "--output", "C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\mergeMappings\output.jar"
+JVM:               C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+Classpath:         C:\Users\nicco\.mcreator\gradle\caches\modules-2\files-2.1\net.neoforged.installertools\installertools\2.1.2\62740d5aa8f75f4a4d542d363bdda5b64a198f7a\installertools-2.1.2-fatjar.jar
+Working Dir:       C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\mergeMappings
+Main Class:        net.neoforged.installertools.ConsoleTool
+Program log file:  C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\mergeMappings\log.log
+Output file:       C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\mergeMappings\output.jar

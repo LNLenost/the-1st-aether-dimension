@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "aethermod:super_glowstone_dust"
+    }
+  },
+  "result": {
+    "id": "aethermod:glow_carrots",
+    "count": 1
+  }
+}

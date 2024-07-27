@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "id": "aethermod:super_glowstone_dust",
+    "count": 4
+  }
+}
