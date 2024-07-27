@@ -1,8 +1,0 @@
-JVM Args:          
-Run Args:          "--input", "C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\merge\output.jar", "--output", "C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\rename\output.jar", "--map", "C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\mergeMappings\output.jar", "--cfg", "C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\listLibraries\libraries.txt", "--ann-fix", "--ids-fix", "--src-fix", "--record-fix", "--unfinal-params"
-JVM:               C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
-Classpath:         C:\Users\nicco\.mcreator\gradle\caches\modules-2\files-2.1\net.neoforged\AutoRenamingTool\2.0.3\d9890c71b4366f886c2b1006782043a6a6816eb6\AutoRenamingTool-2.0.3-all.jar
-Working Dir:       C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\rename
-Main Class:        net.neoforged.art.Main
-Program log file:  C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\rename\log.log
-Output file:       C:\Users\nicco\MCreatorWorkspaces\aethermod\build\neoForm\neoFormJoined1.20.6-20240429.153634\steps\rename\output.jar
